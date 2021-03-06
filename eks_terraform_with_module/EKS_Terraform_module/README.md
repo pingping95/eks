@@ -123,9 +123,7 @@ $ tree
 
 
 ## 전체적인 순서
-: 전체적인 과정은 Terraform AWS 공식 Module들을 참고하여 만들었습니다.
-
-
+: 전체적인 과정은 Terraform AWS 공식 Module과 아래 Reference 페이지를 참고하여 만들었습니다.
 
 
 
